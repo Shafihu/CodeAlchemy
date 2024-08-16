@@ -72,11 +72,11 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
+      title: "Academic Hub - School Management App",
+      des: "Simplifies school administration with a modern web interface. Manage students, teachers, courses, and grades effortlessly. Powered by Next.js for fast, server-rendered React applications, ensuring optimal performance and SEO.",
+      img: "/pOne.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://github.com/Shafihu/Academic-Hub",
     },
     {
       id: 2,
@@ -107,37 +107,43 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Collaborating with Mustapha was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Mustapha's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Mustapha is the ideal partner.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Collaborating with Mustapha was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Mustapha's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Mustapha is the ideal partner.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Collaborating with Mustapha was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Mustapha's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Mustapha is the ideal partner.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Collaborating with Mustapha was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Mustapha's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Mustapha is the ideal partner.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Collaborating with Mustapha was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Mustapha's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Mustapha is the ideal partner.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
     },
   ];
   
   export const companies = [
+    {
+      id: 6,
+      name: "insnip.",
+      img: null,
+      nameImg: "/inSnip.png",
+    },
     {
       id: 1,
       name: "cloudinary",
@@ -164,7 +170,7 @@ export const navItems = [
     },
     {
       id: 5,
-      name: "docker.",
+      name: "docker",
       img: "/dock.svg",
       nameImg: "/dockerName.svg",
     },
