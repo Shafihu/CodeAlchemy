@@ -114,7 +114,7 @@ export const InfiniteMovingCards = ({
                       width={50}
                       height={50}
                       objectFit="cover"
-                      style={{ borderRadius: "100%", backgroundColor: "red" }}
+                      style={{ borderRadius: "100%" }}
                     />
                   </div>
                   <div className="flex flex-col">
